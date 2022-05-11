@@ -13,8 +13,8 @@ and implement its static method:
 Find the maximum integer, that can be obtained by permutation of numbers of an arbitrary three-digit positive integer n `(100<=n<=999)`.
 ###  Example:
 `n = 165`  -> result =  651
-  
-`n = 123` -> result = 321
+ 
+ `n = 123` -> result = 321
 ---
 ### Examples
 
